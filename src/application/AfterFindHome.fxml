@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SceneController">
+   <children>
+      <ImageView fitHeight="600.0" fitWidth="1007.0" layoutX="162.0" layoutY="120.0" opacity="0.87" pickOnBounds="true" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@../../../../../Downloads/500_F_199183090_zAxnaGeSLUWQuX3UAd5r0UQ2s4TtBMx1.jpg" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#9f0308" height="50.0" layoutX="70.0" layoutY="357.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="449.0" />
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#fecf3e" height="50.0" layoutX="62.0" layoutY="375.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="453.0" AnchorPane.leftAnchor="62.0" AnchorPane.topAnchor="350.0" />
+      <Label layoutX="81.0" layoutY="357.0" text="INTERNATIONAL STUDENTS HOSTEL" textFill="#9f0308">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#9f0308" height="50.0" layoutX="71.0" layoutY="265.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="449.0" />
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#fecf3e" height="50.0" layoutX="65.0" layoutY="257.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="453.0" />
+      <Label layoutX="208.0" layoutY="265.0" text="BOYS HOSTEL" textFill="#9f0308">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#9f0308" height="50.0" layoutX="67.0" layoutY="172.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="449.0" />
+      <Rectangle arcHeight="50.0" arcWidth="50.0" fill="#fecf3e" height="50.0" layoutX="61.0" layoutY="163.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="453.0" />
+      <Label layoutX="206.0" layoutY="169.0" text="GIRLS HOSTEL" textFill="#9f0308" AnchorPane.topAnchor="169.0">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
