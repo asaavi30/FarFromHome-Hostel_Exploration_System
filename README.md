@@ -16,6 +16,7 @@ This project aims to **simplify the relocation process** for students by helping
    - If **unauthorized or invalid**, the admin can reject the request to maintain security and reliability.  
 
 ✅ **Browse Hostels**: Students can view hostel details.
+
 ✅ **Direct Contact**: Allows students to contact hostels directly through the app.  
 ✅ **Search & Filter**: Find hostels based on personal preferences.  
 ✅ **Secure Database Integration** using MySQL.  
